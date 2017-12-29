@@ -1,3 +1,28 @@
-body {
-    background: #863624;
+#slide-1 {
+    background: linear-gradient(#1c002b,#373050) ;
+    height: 100vh;
+}
+
+#slide-2 {
+    background: linear-gradient(#373050, #250061);
+    height: 100vh;
+}
+
+#slide-3 {
+    background: linear-gradient(#250061, #000);
+    height: 100vh;
+}
+
+#intro-text {
+    position: absolute;
+    top: 25%;
+    left: 17%;
+    text-shadow: 3px 3px #4429c9cc;
+    letter-spacing: 1rem;
+}
+
+#slide2-text {
+    top: 25%;
+    position: relative;
+    text-align: center;
 }

@@ -26,3 +26,9 @@
     position: relative;
     text-align: center;
 }
+
+#slide3-text {
+    float: right;
+    position: relative;
+    padding: 40% 5% 0;
+}
